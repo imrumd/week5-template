@@ -56,6 +56,3 @@ print(factorial(5))  # Output: 120
 # 5. Check Prime Number
 print(is_prime(7))  # Output: True
 print(is_prime(10))  # Output: False
-
-# 6. Count Vowels in a String
-print(count_vowels("hello world"))  # Output: 3
